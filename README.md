@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arthur Kakande, I am passionate about AI and Intelligent Systems. Welcome to my GitHub profile!
+I'm Arthur Kakande, i enjoy 🔬 turning data into insights and building intelligent solutions! 💡. Welcome to my GitHub profile!
 
 ### About Me
 
