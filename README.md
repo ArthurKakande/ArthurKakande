@@ -26,7 +26,7 @@ I'm Arthur Kakande, I am passionate about AI and Intelligent Systems. Welcome to
 
 ### My Skills
 
-- Programming languages: R, Python, SQL
+- Programming languages: R, Python, Java, SQL
 - Frameworks and libraries: Streamlit, R Shiny, Tensorflow, Langchain
 - Tools and technologies: Protege, GraphDB
 - Databases: PostgreSQL
