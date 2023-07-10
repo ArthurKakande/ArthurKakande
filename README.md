@@ -19,7 +19,7 @@ I'm Arthur Kakande, i enjoy 🔬 turning data into insights and building intelli
 
 ### About Me
 
-- 🔭 I’m constantly working on The Africa Knowledge Graph.
+- 🔭 I’m currently working on The Africa Knowledge Graph
 - 🌟 I'm interested in AI and Intelligent Systems
 - 💬 Ask me about Information Retreival, Semantic Technologies, Expert Systems, Natural Language Undertstanding, ML, Distributed AI, etc.
 - 📫 How to reach me: https://twitter.com/arthurkakande
