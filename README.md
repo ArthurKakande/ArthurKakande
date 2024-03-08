@@ -19,9 +19,10 @@ I'm Arthur Kakande, i enjoy 🔬 turning data into insights and building intelli
 
 ### About Me
 
-- 🔭 I’m currently working on The Africa Knowledge Graph
+- 🔭 I’m currently working on "intellikit" a Python library for building intelligent solutions.
+- ⚡ I previously worked on The Africa Knowledge Graph and you can use its ontology on my GitHub.
 - 🌟 I'm interested in AI and Intelligent Systems
-- 💬 Ask me about Information Retreival, Semantic Technologies, Expert Systems, Natural Language Undertstanding, ML, Distributed AI, etc.
+- 💬 Ask me about Information retrieval, Semantic Technologies, Expert Systems, Natural Language understanding, ML, Distributed AI, etc.
 - 📫 How to reach me: https://twitter.com/arthurkakande
 
 ### My Skills
@@ -54,6 +55,6 @@ You can connect with me on [LinkedIn](your-linkedin-profile) and check out my pe
 
 ### Get in Touch
 
-Feel free to reach out to me if you have any questions, ideas, or just want to say hello! I'm always excited to connect with fellow developers and enthusiasts.
+Feel free to reach out to me if you have any questions, or ideas, or just want to say hello! I'm always excited to connect with fellow developers and enthusiasts.
 
 Let's collaborate, learn, and create amazing things together!
